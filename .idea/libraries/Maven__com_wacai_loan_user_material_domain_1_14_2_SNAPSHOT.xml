@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.wacai.loan:user-material-domain:1.14.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wacai/loan/user-material-domain/1.14.2-SNAPSHOT/user-material-domain-1.14.2-20181112.095134-6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wacai/loan/user-material-domain/1.14.2-SNAPSHOT/user-material-domain-1.14.2-20181112.095134-6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wacai/loan/user-material-domain/1.14.2-SNAPSHOT/user-material-domain-1.14.2-20181112.095134-6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.wacai.loan:identity-image-recognition-api:1.1.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wacai/loan/identity-image-recognition-api/1.1.2-SNAPSHOT/identity-image-recognition-api-1.1.2-20181112.095705-3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wacai/loan/identity-image-recognition-api/1.1.2-SNAPSHOT/identity-image-recognition-api-1.1.2-20181112.095705-3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wacai/loan/identity-image-recognition-api/1.1.2-SNAPSHOT/identity-image-recognition-api-1.1.2-20181112.095705-3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

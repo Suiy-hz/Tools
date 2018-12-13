@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.wacai.loan:adanos-api:1.0.18-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wacai/loan/adanos-api/1.0.18-SNAPSHOT/adanos-api-1.0.18-20180828.062720-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wacai/loan/adanos-api/1.0.18-SNAPSHOT/adanos-api-1.0.18-20180828.062720-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wacai/loan/adanos-api/1.0.18-SNAPSHOT/adanos-api-1.0.18-20180828.062720-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
